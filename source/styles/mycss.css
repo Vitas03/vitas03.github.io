@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap') ;
+
+body {
+    font-family: Michroma, serif;
+    background: linear-gradient(90deg, #8c00ff 0%, #5400a8 100%);
+}
+p {
+    color: aquamarine;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(237, 249, 245);
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(247, 186, 110);
+}
+
+.navbar-brand img{
+    width: 40px;
+}
+
+.navbar-toggler {
+    background-color: rgb(247, 186, 110);
+}
+
+.sidebar {
+    color: rgb(237, 249, 245);
+    background: linear-gradient(270deg, #8c00ff 0%, #5400a8 100%);
+
+}
+
+.sl{
+	margin-left: auto;
+
+}
+.card {
+    background: linear-gradient(270deg, #8c00ff 0%, #5400a8 100%);
+    color: aquamarine;
+}
+ 
+.card a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.slide-text,
+.footer-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+footer {
+    background: linear-gradient(270deg, #8c00ff 0%, #5400a8 100%);
+
+}
+
+.btn-outline-primary {
+    background: linear-gradient(270deg, #eefa80 0%, #5400a8 100%);
+
+}
+
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-anim {
+    animation: call 2s ease 0s infinite normal none;
+}
+
+@keyframes call {
+	0%,
+	100% {
+		transform: rotate(0deg);
+		transform-origin: 50% 100%;
+	}
+
+	10% {
+		transform: rotate(2deg);
+	}
+
+	20%,
+	40%,
+	60% {
+		transform: rotate(-4deg);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: rotate(4deg);
+	}
+
+	80% {
+		transform: rotate(-2deg);
+	}
+
+	90% {
+		transform: rotate(2deg);
+	}
+}
+
+.tg-anim {
+    animation: myAnim 2s ease 0s infinite normal none;
+}
+
+@keyframes myAnim {
+	0%,
+	100% {
+		transform: rotate(0deg);
+		transform-origin: 0 50%;
+	}
+
+	10% {
+		transform: rotate(2deg);
+	}
+
+	20%,
+	40%,
+	60% {
+		transform: rotate(-4deg);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: rotate(4deg);
+	}
+
+	80% {
+		transform: rotate(-2deg);
+	}
+
+	90% {
+		transform: rotate(2deg);
+	}
+}
+
+.yt-anim {
+    animation: ytub 2s ease 0s infinite normal none;
+}
+@keyframes ytub {
+	0% {
+		transform: rotate(0);
+		transform-origin: left;
+	}
+
+	100% {
+		transform: rotate(360deg);
+		transform-origin: left;
+	}
+}
+
+
+@media (max-width: 755px) {
+    .carousel-indicators {
+        display: none;
+    }
+}
