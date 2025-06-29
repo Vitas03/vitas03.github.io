@@ -12,7 +12,7 @@ Bootstrap5, HTML5, CSS3, JavaScript (basic)
 Live Demo:
 
 Screenshots:
-Desktop view:
+Desktop view:screenschots/desktop.png
 Mobile view:
 
 PC Hardware Store (Deutsch)
