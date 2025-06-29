@@ -44,11 +44,10 @@ Verwendete Technologien:
 - CSS3
 - JavaScript (Grundlagen)
 
-Live-Vorschau:  
+Live-Vorschau:
+https://vitas03.github.io/
 
-Screenshots:
-Desktop-Ansicht:
-Mobile-Ansicht:
+
 
 
 
