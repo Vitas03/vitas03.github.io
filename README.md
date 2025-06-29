@@ -9,7 +9,7 @@ Multi-page layout, Responsive design (mobile-friendly), Animated transitions bet
 Technologies used:
 Bootstrap5, HTML5, CSS3, JavaScript (basic)
 
-Live Demo:
+Live Demo: https://vitas03.github.io/
 
 Screenshots:
 Desktop view:
