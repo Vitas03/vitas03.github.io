@@ -12,7 +12,8 @@ Bootstrap5, HTML5, CSS3, JavaScript (basic)
 Live Demo:
 
 Screenshots:
-Desktop view:https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/desktop.png
+Desktop view:https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/desktop.png 
+https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/desctop1.png
 Mobile view:
 
 PC Hardware Store (Deutsch)
