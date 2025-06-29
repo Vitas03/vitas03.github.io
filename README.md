@@ -20,8 +20,13 @@ https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/desctop1.png
 https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/desktop2.png
 
 Mobile view:
+ https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/mobile.png
 
-PC Hardware Store (Deutsch)
+ https://github.com/Vitas03/vitas03.github.io/blob/main/screenshots/mobile1.png
+
+---
+
+- PC Hardware Store (Deutsch)
 
 Dies ist eine responsive Webseite, erstellt mit Bootstrap 5, HTML, CSS und etwas JavaScript.  
 Das Layout besteht aus mehreren Seiten mit Navigation, Animationen und angepasstem Design.  
